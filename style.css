@@ -1,0 +1,23 @@
+.object{
+    width:100%;
+    text-align:left;
+}
+
+
+.object h3{
+display: inline;
+}
+.object button{
+float:right;
+border: 5px solid white;
+}
+
+.big_image{
+    width:100%;
+}
+#start{
+    font-size: 22px;
+}
+#status{
+    font-size: 22px;
+}
